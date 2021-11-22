@@ -1,0 +1,7 @@
+C:\Users\Artemy\source\repos\OAP_prakt_15\OAP_prakt_15.5\obj\Debug\OAP_prakt_15.5.csproj.AssemblyReference.cache
+C:\Users\Artemy\source\repos\OAP_prakt_15\OAP_prakt_15.5\obj\Debug\OAP_prakt_15.5.csproj.CoreCompileInputs.cache
+C:\Users\Artemy\source\repos\OAP_prakt_15\OAP_prakt_15.5\bin\Debug\OAP_prakt_15.5.exe.config
+C:\Users\Artemy\source\repos\OAP_prakt_15\OAP_prakt_15.5\bin\Debug\OAP_prakt_15.5.exe
+C:\Users\Artemy\source\repos\OAP_prakt_15\OAP_prakt_15.5\bin\Debug\OAP_prakt_15.5.pdb
+C:\Users\Artemy\source\repos\OAP_prakt_15\OAP_prakt_15.5\obj\Debug\OAP_prakt_15.5.exe
+C:\Users\Artemy\source\repos\OAP_prakt_15\OAP_prakt_15.5\obj\Debug\OAP_prakt_15.5.pdb
